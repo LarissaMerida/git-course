@@ -1,13 +1,3 @@
-D
-C
-C
-
-A
-A
-A
-A
-B
-B
 
 # Github
 Testando vim para abrir use vi Readme.md
